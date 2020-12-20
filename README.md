@@ -12,7 +12,7 @@ AssertJ는 매우 생산적인 테스트 메소드를 제공하지만, 문서는
 
 **환경 변경시 반드시 아래의 내용을 변경합니다.**
 
-MacOS 10.15 Catalina, Gradle, JUnit5, AssertJ 3.16, Java 8
+MacOS 10.15 Catalina, Gradle, JUnit5, AssertJ 3.18, Java 11, hamcrest 2.2, mockito 3.6
 
 ---
 
