@@ -14,6 +14,10 @@ AssertJ는 매우 생산적인 테스트 메소드를 제공하지만, 문서는
 
 MacOS 10.15 Catalina, Gradle, JUnit5, AssertJ 3.18, Java 11, hamcrest 2.2, mockito 3.6
 
+## 참고자료
+
+자바와 JUnit을 활용한 실용주의 단위테스트
+
 ---
 
 저와 이 저장소는 지금은 부족하지만, 곧 좋아질 예정입니다.
